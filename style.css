@@ -1,0 +1,29 @@
+
+.menu{
+    background-color: aqua;
+    display: flex;
+    padding-top: 20px;
+}
+.menu li{
+    list-style: none;
+    padding-right: 20px;
+
+}
+.first{
+    display: flex;
+}
+.email{
+    display: flex;
+}
+.mot{
+    display: flex;
+}
+.button{
+    display: flex;
+}
+.valider{
+    background-color: blue;
+}
+.annulé{
+    background-color:red;
+}
